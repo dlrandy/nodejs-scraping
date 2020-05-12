@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlrandy/nodejs-scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlrandy/nodejs-scraping/issues"
+  },
+  "homepage": "https://github.com/dlrandy/nodejs-scraping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^3.0.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "rxjs": "^6.5.5"
+  }
+}
